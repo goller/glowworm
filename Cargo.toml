@@ -1,6 +1,11 @@
 [package]
 name = "glowworm"
 version = "0.1.0"
+authors = ["Chris Goller <goller@gmail.com>"]
 edition = "2021"
+description = "Glowworm is a fast incremental hashing designed for Baird, Bahn, and Collins decoding."
+license = "MIT"
+repository = "https://github.com/goller/glowworm"
+readme = "README.md"
 
 [dependencies]
